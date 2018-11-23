@@ -1,7 +1,7 @@
 # arduino-modules
 
 
-Arduino Nano Pins
+##Arduino Nano Pins
 TX    = RS485 (DI)        [2x4P Header]
 RX    = RS485 (RO)
 D2    = RS485 (DE-RE)
